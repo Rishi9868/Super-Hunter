@@ -1,0 +1,25 @@
+body
+{
+    /* background-image: url("superhero2.jpg"); */
+    background-color: red;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gameName
+{
+    width:auto;
+    color:rgb(155, 25, 25);
+    /* font-size: 3rem; */
+    
+    display:flex;
+}
+#gameNam
+{
+    font-size: 3rem;
+}
+.imga
+{
+    height:400px;
+    width:400px;
+    
+}
